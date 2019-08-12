@@ -1,0 +1,21 @@
+{
+  "name": "amqp-router",
+  "version": "1.0.0",
+  "description": "A simple route system for RPC pattern with queue systems.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "rpc",
+    "route",
+    "rabbitmq",
+    "queue"
+  ],
+  "author": "Gustavo Araújo",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
